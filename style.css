@@ -11,10 +11,13 @@
 
 .cardContainer{
   margin: 30px auto;
-  border: 1px solid black;
+  border: 1px solid rgb(223, 220, 220);
   width: 30%;
 }
 
+h1{
+  padding: 20px;
+}
 .upperCard {
   width: 90%;
   margin: 0 auto;
@@ -33,11 +36,21 @@
 }
 
 .lowerCard{
-  border: 1px solid black;
+  border: 1px solid rgb(223, 220, 220);
   padding: 10px;
   margin: 20px;
 }
 
 .animalFeatures{
   list-style-type: none;
+  margin: 20px;
+}
+
+.animalFeatures li{
+  margin: 0 -20px;
+  font-weight: bolder;
+}
+
+.values {
+  font-weight: normal;
 }
