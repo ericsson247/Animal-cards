@@ -4,16 +4,32 @@
   text-decoration: none;
 }
 
-body {
+/* body{
   
-}
+  text-align: center;
+} */
 
 .cardContainer{
-  margin: 300px;  
+  margin: 30px auto;
+  border: 1px solid black;
+  width: 30%;
 }
 
-.upperCard{
+.upperCard {
+  width: 90%;
+  margin: 0 auto;
+}
 
+.tigerImage{
+  width: 100%;
+  margin: 10px auto;
+}
+
+
+.description{
+  font-style: italic;
+  font-size: 14px;
+  padding: 0 15px 15px 0px;
 }
 
 .lowerCard{
@@ -22,6 +38,6 @@ body {
   margin: 20px;
 }
 
-.description{
-  font-style: italic;
+.animalFeatures{
+  list-style-type: none;
 }
