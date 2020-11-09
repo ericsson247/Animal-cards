@@ -17,7 +17,7 @@ https://raw.githack.com/ericsson247/Animal-cards/main/index.html
 - CSS
 
 # Visuals
-![Display_Preview](Assets/images/animalCard.png "page_view")
+![Display_Preview](Asset/images/animalCard.png "page_view")
 
 ## Author
 
