@@ -5,7 +5,7 @@ Description of animal kinndom
 learning html and css
 
 ## Live Demo
-https://raw.githack.com/ericsson247/Animal-cards/cssBranch/index.html
+https://raw.githack.com/ericsson247/Animal-cards/main/index.html
 
 ## Dependencies
 
